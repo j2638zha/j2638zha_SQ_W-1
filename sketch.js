@@ -27,7 +27,7 @@ function setup() {
 
   // shape
   fill(190, 130, 70);
-  rect(330, 340, 140, 30);
+  rect(330, 340, 200, 30);
 }
 
 function draw() {}
