@@ -5,11 +5,11 @@
 }
 
 body {
-  background-color: #1a1a1a;
+  margin: 0;
+  background-color: #f5dcb4;
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
 }
 
 canvas {
