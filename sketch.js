@@ -37,9 +37,3 @@ function mousePressed() {
   noStroke();
   circle(mouseX, mouseY, 40);
 }
-
-function keyPressed() {
-  if (key === "k") {
-    console.log("Mouse X:", mouseX, "Mouse Y:", mouseY);
-  }
-}
