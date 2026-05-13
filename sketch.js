@@ -26,7 +26,6 @@ function setup() {
   text("JENGA", width / 2, 60);
 
   // shape
-  fill(190, 130, 70);
   rect(330, 340, 200, 30);
 }
 
