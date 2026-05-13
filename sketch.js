@@ -7,7 +7,7 @@
 let jengaImg;
 
 function preload() {
-  jengaImg = loadImage("assets/images/jenga.png");
+  jengaImg = loadImage("assets/images/jenga.jpg");
 }
 
 function setup() {
