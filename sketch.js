@@ -12,7 +12,7 @@ function setup() {
   createCanvas(800, 450);
 
   // background
-  background(240, 220, 190);
+  background(800, 220, 190);
 
   // image
   image(jengaImg, 250, 100, 300, 200);
